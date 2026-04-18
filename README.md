@@ -1,9 +1,9 @@
 <!-- Banner -->
-<h1 align="center"> DR Khadijah Aramide Dere </h1>
+<h1 align="center"> Dr. Khadijah Aramide Dere </h1>
 <h3 align="center">Data Scientist | ML Engineer</h3>
 
 <p align="center">
-  Bridging the gap <strong>between</strong> & <strong>animal health and AI solutions</strong>
+  Bridging the gap <strong>between</strong><strong>animal health and AI solutions</strong>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khadijah10&color=blueviolet&style=flat" alt="profile views" />
@@ -15,14 +15,11 @@
 ---
 ## Tech Stack
 
-| **Data Analysis & Visualisation** | **AI & Machine Learning** | **Databases & Data Engineering** | **Tools & Deployment I** |
-|---------------------------|---------------------------|-----------------------------|----------------------|---------------------|------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python | Scikit-learn | SQL Databases | Git & Github |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/>  Jupyter |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL | VS Code | Streamlit |
-| Excel/Google Sheets | PyTorch  | Data Cleaning & Wrangling | Docker | 
-| Matplotlib, Seaborn | -| - | - | - | - |
-| - | - | - |-  | - | - |
+![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-FF00FF?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-008080?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-008000?style=for-the-badge&logo=streamlit&logoColor=black)
 
 
 ABOUT ME :
