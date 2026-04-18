@@ -2,6 +2,7 @@
 <h1 align="center"> Dr. Khadijah Aramide Dere </h1>
 <h3 align="center">Data Scientist |Aspiring ML Engineer</h3>
 
+
 <p align="center">
   Bridging the gap <strong>between</strong><strong> animal health and AI solutions</strong>
 </p>
