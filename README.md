@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center"> Dr. Khadijah Aramide Dere </h1>
-<h3 align="center">Data Scientist | ML Engineer</h3>
+<h3 align="center">Data Scientist |Aspiring ML Engineer</h3>
 
 <p align="center">
   Bridging the gap <strong>between</strong><strong>animal health and AI solutions</strong>
@@ -20,7 +20,9 @@
 ![SQL](https://img.shields.io/badge/SQL-008080?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-008000?style=for-the-badge&logo=streamlit&logoColor=black)
-
+![VS Code](https://img.shields.io/badge/VSCode-C0C0C0?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFA500?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ABOUT ME :
 -  I’m currently learning about AI/ML
