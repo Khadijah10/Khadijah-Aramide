@@ -45,10 +45,7 @@ ABOUT ME :
 <p align="center">
   <a href="https://linkedin.com/in/khadijaharamide" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/har_dhee" target="_blank">
-
-  </a>
+    
 </p>
 ### 🤝 Connect with Me
 
